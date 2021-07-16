@@ -1,4 +1,4 @@
-# EDA - Telcom Customer Churn dataset
+# EDA - Customer Churn in Telcom 
 ## Overview
 I followed the guide from [A Comprehensive Guide to Data Exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/#one) to perform and discuss completely exploratory data analysis of the Telco Customer Churn dataset.
 ## Introduction
