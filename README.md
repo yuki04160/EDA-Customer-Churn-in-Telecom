@@ -8,4 +8,4 @@ Exploratory Data Analysis is an approach to see what data can tell us beyond the
 5. Outlier Treatment 
 6. Feature Engineering
 ## Conclusion
-To summarize, we have fixed data types, treated missing values, cleaned categories, and built some graphs to gain insights so far. From the univariate analysis, we revealed the overall condition in the dataset, and from the bi-variate analysis, we got some clues of which variable (tenure, MonthlyCharges, and SeniorCitizen) might have a significant impact on customer churn. After descriptive analysis, next, we can start performing predictive analysis!
+To summarize, from the univariate analysis, we revealed the overall condition in the dataset, and from the bi-variate analysis, we got some clues of which variable (tenure, MonthlyCharges, and SeniorCitizen) might have a significant impact on customer churn. After descriptive analysis, next, we can start performing predictive analysis!
