@@ -1,5 +1,5 @@
 # EDA - Customer Churn in Telcom
-In this post, I will follow the guide from [A Comprehensive Guide to Data Exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/#one) to perform and discuss completely exploratory data analysis of the Telco Customer Churn dataset.
+I followed the guide from [A Comprehensive Guide to Data Exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/#one) to perform and discuss completely exploratory data analysis of the Telco Customer Churn dataset.
 ## Introduction
 Exploratory Data Analysis is an approach to see what data can tell us beyond the formal sophisticated analysis and summarize dataset main characteristics with visual methods. To be more specific, we use EDA to gain insight into a dataset, examine variables, detect anomalies, and prepare data before applying a predictive model. Since good input quality will lead to good output quality, this process could also help to increase the accuracy of the models. Thus, it is important to spend significant time on it.
 ## Steps 
