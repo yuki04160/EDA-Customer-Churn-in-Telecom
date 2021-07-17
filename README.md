@@ -14,8 +14,8 @@ Exploratory Data Analysis is an approach to see what data can tell us beyond the
    - Categorical & Categorical
    - Categorical & Numerical
    - Numerical & Numerical
-4. Missing value treatment 
-5. Outlier treatment 
+4. Missing Value Treatment 
+5. Outlier Treatment 
 6. Feature Engineering
    - Variable transformation
    - Variable/Feature creation
