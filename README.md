@@ -5,8 +5,8 @@ Exploratory Data Analysis is an approach to see what data can tell us beyond the
 ## Steps 
 1. Variable Identification 
    - Predictor and Target
-   - Data Type
-   - Variable Category
+   - Data type
+   - Variable category
 2. Univariate Analysis 
    - Numerical
    - Categorical
@@ -14,10 +14,10 @@ Exploratory Data Analysis is an approach to see what data can tell us beyond the
    - Categorical & Categorical
    - Categorical & Numerical
    - Numerical & Numerical
-4. Missing Value Treatment 
-5. Outlier Treatment 
+4. Missing value treatment 
+5. Outlier treatment 
 6. Feature Engineering
-   - Variable Transformation
-   - Variable/Feature Creation
+   - Variable transformation
+   - Variable/Feature creation
 ## Conclusion
 To summarize, I have fixed data types, treated missing values, cleaned categories, and built some graphs to gain insights. From the univariate analysis, I revealed the overall condition in the dataset, and from the bi-variate analysis, I got some clues of which variable (tenure, MonthlyCharges, and SeniorCitizen) might have a significant impact on customer churn. After descriptive analysis, next, I can start performing predictive analysis! [Predicting Customer Churn in Telecom](https://github.com/yuki04160/Predicting-Customer-Churn-in-Telecom).
