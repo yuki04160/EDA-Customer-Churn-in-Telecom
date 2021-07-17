@@ -1,7 +1,7 @@
 # EDA - Customer Churn in Telcom
 Before modeling, I followed the extensive step-by-step guide from [A Comprehensive Guide to Data Exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/#one) and performed EDA in R using Kaggle dataset - [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn).
 ## Introduction
-By conducting exploratory data analysis (EDA), we can gain insight into a dataset, examine variables, detect anomalies, and prepare data before applying a predictive model. Thus, EDA could help to increase the accuracy of the models since good input quality will lead to good output quality. With that being said, this post aims to carefully walk through and understand each step in EDA .
+By conducting exploratory data analysis (EDA), we can gain insight into a dataset, examine variables, detect anomalies, and prepare data before applying a predictive model. Thus, EDA could help to increase the accuracy of the models since good input quality will lead to good output quality. With that being said, this post aims to carefully walk through and understand each step in EDA process.
 ## Steps 
 1. Variable Identification 
    - Predictor and Target
